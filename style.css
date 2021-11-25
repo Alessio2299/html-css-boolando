@@ -1,0 +1,23 @@
+/* Start Common */
+.container{
+  width: 80%;
+  margin: auto;
+}
+/* Start Main */
+.article{
+  width: 30%;
+}
+.article img{
+  width: 100%;
+}
+.sale, .sostenibility{
+font-size: 10px;
+color: white;
+padding: 1px;
+}
+.sale{
+  background-color: red;
+}
+.sostenibility{
+  background-color: green;
+}
